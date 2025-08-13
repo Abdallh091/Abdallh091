@@ -1,7 +1,17 @@
-<!-- Neon Header Banner -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body>
+  <!-- Neon Header Banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&text=Abdalluh%20Nasser%20Ahmed%20Mansour&fontColor=39FF14&fontAlignY=35&desc=A%20Passionate%20Frontend%20Developer%20from%20Egypt&descAlignY=55&section=header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1a1a1a,100:0f0f0f& &fontColor=39FF14&fontAlignY=35&desc&descAlignY=55&section=header"
     alt="Neon Banner"
   />
 </p>
@@ -14,21 +24,21 @@
 
 <!-- Quick stats badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend-39FF14?labelColor=111111&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/From-Egypt-39FF14?labelColor=111111&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-808080?labelColor=111111&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Egypt-808080?labelColor=111111&style=for-the-badge" />
   <a href="https://twitter.com/3bdalluh_nasser" target="blank">
-    <img src="https://img.shields.io/twitter/follow/3bdalluh_nasser?style=for-the-badge&logo=twitter&labelColor=111111&color=39FF14&logoColor=39FF14" alt="3bdalluh_nasser" />
+    <img src="https://img.shields.io/twitter/follow/3bdalluh_nasser?style=for-the-badge&logo=twitter&labelColor=111111&color=FFFFFF&logoColor=808080" alt="3bdalluh_nasser" />
   </a>
 </p>
 
 <!-- View counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallh091&label=Profile%20views&color=39FF14&style=flat-square" alt="abdallh091" />
+  <img src="https://komarev.com/ghpvc/?username=abdallh091&label=Profile%20views&color=808080&style=flat-square" alt="abdallh091" />
 </p>
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-_-111111?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=111111&color=39FF14" alt="divider" />
+  <img src="https://img.shields.io/badge/-_-111111?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111&color=FFFFFF" alt="divider" />
 </p>
 
 <!-- About Me Banner -->
@@ -38,7 +48,7 @@
 
 <!-- About Me Details -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=🔭+Currently+working+on:+Building+responsive+websites;🌱+Learning:+Advanced+React+hooks,+Tailwind+CSS,+TypeScript;👯+Collaborating+on:+React+and+Vue+projects;🤝+Need+help+with:+UI/UX+and+performance;👨‍💻+All+projects+on+GitHub;💬+Ask+me+about:+React,+Vue,+GSAP;📫+Email:+abdallhnasser2025@gmail.com;⚡+Fun+fact:+I+love+CSS+art+and+animations!" alt="About Me Details" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=🔭+Currently+working+on:+Building+responsive+websites;🌱+Learning:+Advanced+React+hooks,+Tailwind+CSS,+TypeScript;👯+Collaborating+on:+React+and+Vue+projects;🤝+Need+help+with:+UI/UX+and+performance;👨‍💻+All+projects+on+GitHub;💬+Ask+me+about:+React,+Vue,+GSAP;📫+Email:+abdallhnasser2025@gmail.com;⚡+Fun+fact:+I+love+CSS+art+and+animations!" alt="About Me Details" />
 </p>
 
 <!-- Social Links -->
@@ -91,3 +101,6 @@
     alt="footer"
   />
 </p>
+</body>
+
+</html>
