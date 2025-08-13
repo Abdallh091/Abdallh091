@@ -1,18 +1,55 @@
-<h1 align="center">Hi 👋, I'm Abdalluh Nasser Ahmed Mansour</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6&height=200&section=header&text=Hi%20👋,%20I'm%20Abdalluh%20Nasser&fontSize=35&fontColor=fff&animation=fadeIn" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallh091&label=Profile%20views&color=0e75b6&style=flat" alt="abdallh091" /> </p>
+<!-- Subtitle -->
+<h3 align="center">💻 A passionate frontend developer from Egypt 🌍</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallh091" alt="abdallh091" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/3bdalluh_nasser" target="blank"><img src="https://img.shields.io/twitter/follow/3bdalluh_nasser?logo=twitter&style=for-the-badge" alt="3bdalluh_nasser" /></a> </p>
+<!-- About Me -->
+### 🚀 About Me
+- 🔭 Currently working on **Building responsive websites for small businesses and startups**
+- 🌱 Learning **Advanced React hooks, Tailwind CSS, and TypeScript**
+- 👯 Looking to collaborate on **Innovative frontend projects using React or Vue**
+- ⚡ Fun fact: **I love experimenting with CSS art and animations!**
 
-- 🔭 I’m currently working on [Building responsive websites for small businesses and startups](https://linktr.ee/3bdalluh)
+---
 
-- 🌱 I’m currently learning **Advanced React hooks, Tailwind CSS, and TypeScript**
+<!-- Social Links -->
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://twitter.com/3bdalluh_nasser"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/abdallah-nasser"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/abdallh_nasser777"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://discord.gg/3bdullah_Nasser"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
 
-- 👯 I’m looking to collaborate on [Innovative frontend projects using React or Vue](https://linktr.ee/3bdalluh)
+---
 
+<!-- Skills -->
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,figma,git,github,php,python,cpp,blender&perline=8" />
+</p>
+
+---
+
+<!-- Stats -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallh091&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdallh091&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallh091&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,6&height=120&section=footer"/>
+</p>
 - 🤝 I’m looking for help with [Optimizing web app performance and UI/UX improvements](https://linktr.ee/3bdalluh)
 
 - 👨‍💻 All of my projects are available at [https://github.com/your-Abdallh091](https://github.com/your-Abdallh091)
