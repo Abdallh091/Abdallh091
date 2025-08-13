@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
-</head>
-
-<body>
-  <!-- Neon Header Banner -->
+ <!-- Neon Header Banner -->
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1a1a1a,100:0f0f0f& &fontColor=39FF14&fontAlignY=35&desc&descAlignY=55&section=header"
@@ -101,6 +91,3 @@
     alt="footer"
   />
 </p>
-</body>
-
-</html>
