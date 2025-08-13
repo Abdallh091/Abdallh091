@@ -1,12 +1,18 @@
-<!-- Banner GIF -->
+<!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif" width="300" alt="Coding Animation"/>
+  <svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+    <rect width="400" height="120" fill="#1E1E1E" rx="15" ry="15"/>
+    <text x="50%" y="50%" fill="#00FFAA" font-size="24" font-family="monospace" text-anchor="middle" alignment-baseline="middle">
+      &lt;Coding in Progress.../&gt;
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
 </p>
 
 # Hi there! 👋 I'm Abdullh Nasser
 
-I'm a **passionate full-stack developer** who loves coding, creating animations, and making tech projects fun! 🎉✨  
-I enjoy exploring **web development**, **Python programming**, **machine learning**, and contributing to **open-source projects**.
+I'm a **passionate full-stack developer** who loves coding, animations, and creating fun tech projects! 🎉✨  
+I enjoy building **web apps**, **Python projects**, **machine learning models**, and contributing to **open-source**.
 
 ---
 
@@ -25,7 +31,7 @@ I enjoy exploring **web development**, **Python programming**, **machine learnin
 ---
 
 ## 🌟 Fun & Joy
-I love adding **animations, colors, and creative touches** to my projects to make them lively and fun! 😄✨
+I love adding **animations, colors, and creative touches** to projects to make them lively and fun! 😄✨
 
 ---
 
@@ -52,4 +58,4 @@ I love adding **animations, colors, and creative touches** to my projects to mak
 ---
 
 ### 💡 Fun Fact
-_"Coding is not just a job, it's my playground!"_ 🎮💻
+_"Coding is my playground — I love creating and experimenting!"_ 🎮💻
