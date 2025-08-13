@@ -1,23 +1,27 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL" alt="Profile Picture" width="150" style="border-radius:50%;" />
-</p>
+# Hi there! 👋 I'm Abdullh Nasser
 
-<!-- Name & Role -->
-<h1 align="center">Aya Nour</h1>
-<h3 align="center">Software Engineer | Frontend Developer</h3>
+![Coding Animation](https://media.giphy.com/media/3o7aD2sa1g0g0g0g0g/giphy.gif)
 
-<!-- Short Intro Banner -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=💻+Welcome+to+my+GitHub&width=700&height=80" alt="Welcome Banner" />
-</p>
+## 🌟 About Me
+I'm a passionate developer who loves turning ideas into reality.  
+I enjoy building web apps, exploring machine learning, and creating open-source projects. My goal is to code **efficiently, creatively, and joyfully**! 🎉
 
-<!-- About Me Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&color=39FF14&lines=Hi+there!+I'm+Aya+Nour;I+build+beautiful+and+responsive+websites;Passionate+about+React,+Vue,+and+modern+frontend+tech" alt="Typing Intro" />
-</p>
+## 🚀 What I Do
+- 🌐 **Web Development:** HTML, CSS, JavaScript, React
+- 🐍 **Python Programming:** Django, Flask
+- 📊 **Data Science & ML:** Pandas, NumPy, Scikit-Learn
+- 🔧 **Open Source Contributions**
+- 🎨 **Fun Projects & Coding Animations**
 
-<!-- Footer / Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f0f0f,50:1a1a1a,100:0f0f0f&section=footer&reversal=true" alt="Footer" />
-</p>
+## 💡 Fun & Joy
+I love adding **animations, colors, and little surprises** to projects to make them more fun and lively! 😄✨
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)  
+[![Website](https://img.shields.io/badge/Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+
+---
+
+### 📊 GitHub Stats
+![Abdullh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullh091&show_icons=true&theme=radical)
