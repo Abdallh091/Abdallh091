@@ -1,42 +1,21 @@
-<!-- About Me Section -->
-<h2 align="center">💡 About Me</h2>
-
+<!-- About Me (SVG Styled) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-00CFFF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/React_&_Vue-00CFFF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=💡%20About%20Me&width=800&height=100" alt="About Me Banner" />
 </p>
 
-<table>
-  <tr>
-    <td>🔭</td>
-    <td><strong>I’m currently working on</strong> Building responsive websites for small businesses and startups</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>I’m currently learning</strong> Advanced React hooks, Tailwind CSS, and TypeScript</td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><strong>I’m looking to collaborate on</strong> Innovative frontend projects using React or Vue</td>
-  </tr>
-  <tr>
-    <td>🤝</td>
-    <td><strong>I’m looking for help with</strong> Optimizing web app performance and UI/UX improvements</td>
-  </tr>
-  <tr>
-    <td>👨‍💻</td>
-    <td><strong>All of my projects are available at</strong> <a href="https://github.com/your-Abdallh091" style="color:#00CFFF;">github.com/your-Abdallh091</a></td>
-  </tr>
-  <tr>
-    <td>💬</td>
-    <td><strong>Ask me about</strong> React, Vue, GSAP, and creating smooth animations</td>
-  </tr>
-  <tr>
-    <td>📫</td>
-    <td><strong>How to reach me</strong> <a href="mailto:abdallhnasser2025@gmail.com" style="color:#00CFFF;">abdallhnasser2025@gmail.com</a></td>
-  </tr>
-  <tr>
-    <td>⚡</td>
-    <td><strong>Fun fact</strong> I love experimenting with CSS art and animations!</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=🔭+Currently+working+on:+Building+responsive+websites;🌱+Learning:+React+hooks,+Tailwind+CSS,+TypeScript;👯+Collaborating+on:+React+and+Vue+projects;🤝+Need+help+with:+UI/UX+and+performance;👨‍💻+All+projects+on+GitHub;💬+Ask+me+about:+React,+Vue,+GSAP;📫+Email:+abdallhnasser2025@gmail.com;⚡+Fun+fact:+I+love+CSS+art+and+animations!" alt="About Me Details" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdallh091&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdallh091&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallh091&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true" height="150" alt="Top Languages"/>
+</p>
