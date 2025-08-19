@@ -1,57 +1,52 @@
-<!-- Animated SVG Banner -->
+# 🌟 Welcome to Abdullh's Animated GitHub Profile! 🌟
+
 <p align="center">
-  <svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="120" fill="#1E1E1E" rx="15" ry="15"/>
-    <text x="50%" y="50%" fill="#00FFAA" font-size="24" font-family="monospace" text-anchor="middle" alignment-baseline="middle">
-      &lt;Coding in Progress.../&gt;
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
-    </text>
-  </svg>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100%">
 </p>
 
-# Hi there! 👋 I'm Abdullh Nasser
+## 👨‍💻 About Me
+<div align="center">
+  
+```javascript
+const abdullh = {
+  pronouns: "he" | "him",
+  code: ["JavaScript", "HTML", "CSS", "React"],
+  passions: ["Web Development", "UI Animations", "Creative Coding"],
+  hobbies: ["Gaming", "Digital Art", "Tech Experiments"],
+  funFact: "I turn coffee into animated web experiences ☕→🎨"
+};
+```
+</div>
 
-I'm a **passionate full-stack developer** who loves coding, animations, and creating fun tech projects! 🎉✨  
-I enjoy building **web apps** and contributing to **open-source**.
-
----
-
-## � What I Do
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+## 🛠️ Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
----
-
-## 🌟 Fun & Joy
-I love adding **animations, colors, and creative touches** to projects to make them lively and fun! 😄✨
-
----
-
-## 📫 Let's Connect
-<p>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
+## 🎨 Creative Projects Showcase
+<div align="center">
+  
+| Project | Description | Animation |
+|---------|-------------|-----------|
+| **Rainbow Button Generator** | CSS-animated buttons collection | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VkYjFlOWQ2YzY4ODk5YzM4YjU1ODQ1YjU1MWQ0YjE1ODVlY2Q3ZiZjdD1n/3ohjV1rYVXgxXxV7de/giphy.gif" width="80"> |
+| **Particle Effects Playground** | Interactive canvas animations | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjI0Y2U4NmYyMjY1ZDM0NTYwODQ5YjU1YzYwYzJhY2Y3MzM1M2Y4OSZjdD1n/3o7TKsQ8UQ1h6v5Gg0/giphy.gif" width="80"> |
+| **Neon Text Generator** | CSS text effects with glow | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQwY2M4MGM3MWFjYjQzNzY0ZGI2YTc0Y2YyZWVlZWMxYzYxNTc4YyZjdD1n/l378wQbZ5zrXmN1l6/giphy.gif" width="80"> |
+</div>
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullh091&show_icons=true&theme=radical&bg_color=0d1117&text_color=f0f6fc&title_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullh091&layout=compact&theme=radical&bg_color=0d1117&text_color=f0f6fc&title_color=58a6ff&border_color=30363d" alt="Top Languages" height="165">
+</div>
+
+## 🌈 Sticker Collection
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullh091&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-### 💡 Fun Fact
-_"Coding is my playground — I love creating and experimenting!"_ 🎮💻
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ1h6v5Gg0/giphy.gif" width="80">
+  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="80
