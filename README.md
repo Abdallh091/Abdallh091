@@ -43,10 +43,3 @@ const abdullh = {
   <img src="https://github-readme-stats.vercel.app/api?username=abdullh091&show_icons=true&theme=radical&bg_color=0d1117&text_color=f0f6fc&title_color=58a6ff&border_color=30363d" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullh091&layout=compact&theme=radical&bg_color=0d1117&text_color=f0f6fc&title_color=58a6ff&border_color=30363d" alt="Top Languages" height="165">
 </div>
-
-## 🌈 Sticker Collection
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ1h6v5Gg0/giphy.gif" width="80">
-  <img src="https://media.giphy.com/media/xT0xeuOy2Fcl9vDGiA/giphy.gif" width="80
